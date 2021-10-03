@@ -1,0 +1,26 @@
+.content-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 1vw;
+    padding: 1vw;
+    background-color: aliceblue;
+}
+
+.content-block-title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.content-block-items {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-block-item {
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
