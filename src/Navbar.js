@@ -8,16 +8,22 @@ export default class Navbar extends React.Component {
       this.state = {
         
       };
+      this.handleClick = this.handleClick.bind(this);
     }
+
+    handleClick(title) {
+        this.props.setCurrent(title);
+    }
+
     render() {
       return(
           <div id = "navbar">
               {
-                  this.props.options.map(a => {
+                  this.props.options.map(title => {
                     return (
-                    <a className = "options" href = {"#"+a}>
-                        <div>{a}</div>
-                    </a>);
+                    <div className = "options" onClick={() => this.handleClick(title)}>
+                        <div>{title}</div>
+                    </div>);
                   })
               }
           </div>

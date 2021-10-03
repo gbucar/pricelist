@@ -2,9 +2,12 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    margin: 1vw;
-    padding: 1vw;
-    background-color: aliceblue;
+    margin: 5vw;
+    padding: 5vw;
+    background-color: #ab987a;
+    color: #0f1626;
+    border-radius: 10vw;
+
 }
 
 .content-block-title {
@@ -23,4 +26,12 @@
     align-items: space-between;
     justify-content: space-between;
     flex-wrap: nowrap;
+}
+
+.cost {
+    white-space: nowrap;
+}
+
+.product {
+    text-transform: capitalize;
 }

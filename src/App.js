@@ -9,15 +9,23 @@ class App extends React.Component {
     super(props);
     this.state = {
       items: data,
-      options: Object.keys(data)
-
+      options: Object.keys(data),
+      current: ""
     };
+    this.setCurrent = this.setCurrent.bind(this)
   }
+
+  setCurrent(title) {
+    this.setState({
+      current: title
+    });
+  }
+
   render() {
     return (
       <div id ="wrapper">
-        <Navbar options = {this.state.options}></Navbar>
-        <Content items = {this.state.items} ></Content>
+        <Navbar options = {this.state.options} setCurrent = {this.setCurrent}></Navbar>
+        <Content items = {this.state.items} current = {this.state.current}></Content>
 
       </div>
     );
