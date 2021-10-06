@@ -2,23 +2,23 @@
  "BOMBONI": [
   [
    "Chupa Chups lizika",
-   0.4
+   0.5
   ],
   [
    "Chupa Chups velika",
-   0.8
-  ],
-  [
-   "Haribo 100g",
-   1.2
-  ],
-  [
-   "Mentos",
    0.9
   ],
   [
+   "Haribo 100g",
+   1.3
+  ],
+  [
+   "Mentos",
+   1.0
+  ],
+  [
    "kislice",
-   0.3
+   0.4
   ],
   [
    "\u017eve\u010dilni gumi",
@@ -26,111 +26,111 @@
   ],
   [
    "Mr.Twister",
-   0.6
+   0.7
   ],
   [
    "Mr.Frogster",
-   0.6
+   0.7
   ],
   [
    "Skittles",
-   0.6
+   0.7
   ]
  ],
  "PIJA\u010cA": [
   [
    "Pepsi 1,5L",
-   1.3
+   1.4
   ],
   [
    "Pepsi 0,5L",
-   0.8
+   0.9
   ],
   [
    "Coca Cola 1,5L",
-   1.3
+   1.4
   ],
   [
    "Cockta 1,5L",
-   1.4
+   1.5
   ],
   [
    "Cockta 0,5L",
-   0.9
-  ],
-  [
-   "Cola Mercator 0,5L",
-   0.5
-  ],
-  [
-   "Cola Mercator 1,5L",
-   0.7
-  ],
-  [
-   "ledeni \u010daj 0,5L",
-   0.6
-  ],
-  [
-   "ledeni \u010daj 1,5L",
-   1.1
-  ],
-  [
-   "Multisola 0,5L",
-   0.7
-  ],
-  [
-   "Multisola 1,5L",
-   1.1
-  ],
-  [
-   "Sprite 1,5L",
-   1.4
-  ],
-  [
-   "Sprite 0,5L",
-   0.9
-  ],
-  [
-   "Zala z okusom 0,5L",
-   0.6
-  ],
-  [
-   "Zala z okusom 1,5L",
    1.0
   ],
   [
+   "Cola Mercator 0,5L",
+   0.6
+  ],
+  [
+   "Cola Mercator 1,5L",
+   0.8
+  ],
+  [
+   "ledeni \u010daj 0,5L",
+   0.7
+  ],
+  [
+   "ledeni \u010daj 1,5L",
+   1.2
+  ],
+  [
+   "Multisola 0,5L",
+   0.8
+  ],
+  [
+   "Multisola 1,5L",
+   1.2
+  ],
+  [
+   "Sprite 1,5L",
+   1.5
+  ],
+  [
+   "Sprite 0,5L",
+   1.0
+  ],
+  [
+   "Zala z okusom 0,5L",
+   0.7
+  ],
+  [
+   "Zala z okusom 1,5L",
+   1.1
+  ],
+  [
    "jagodni sok 1L",
-   2.4
+   2.5
   ],
   [
    "Fanta 1,5L",
-   1.4
+   1.5
   ],
   [
    "Fanta 0,5L",
-   0.9
+   1.0
   ],
   [
    "Cedevita 200g",
-   1.8
+   2.0
   ]
  ],
  "SLADOLED": [
   [
    "Maxim lu\u010dka",
-   1.8
+   1.9
   ],
   [
    "Lu\u010dka",
-   0.6
+   0.7
   ],
   [
    "Je\u017eek",
-   0.7
+   0.8
   ],
   [
    "Tom",
-   0.7
+   0.8
   ],
   [
    "lu\u010dka lubenica",
@@ -138,27 +138,27 @@
   ],
   [
    "kaktus",
-   0.55
+   0.6
   ],
   [
    "kornet double chocolate",
-   2.0
+   2.2
   ],
   [
    "kornet stracciatella ali gozdni sade\u017ei",
-   1.3
+   1.5
   ],
   [
    "kornet vanilija",
-   1.4
+   1.5
   ],
   [
    "\u017eogica",
-   0.5
+   0.6
   ],
   [
    "Lon\u010dek",
-   0.8
+   1.0
   ],
   [
    "ledenka",
@@ -166,7 +166,7 @@
   ],
   [
    "Planica 1L",
-   4.3
+   4.4
   ],
   [
    "Planica lu\u010dka",
@@ -180,7 +180,7 @@
  "MLE\u010cNI IZDELKI": [
   [
    "ledena kava 1L",
-   1.7
+   1.8
   ],
   [
    "ledena kava 0,2L",
@@ -188,7 +188,7 @@
   ],
   [
    "mleko",
-   0.9
+   1.0
   ],
   [
    "kakav",
@@ -204,25 +204,25 @@
   ],
   [
    "\u010dokoladno mleko 0,5L",
-   1.2
+   1.3
   ],
   [
    "smetana",
-   1.4
+   1.5
   ]
  ],
  "\u010cOKOLADNI IZDELKI": [
   [
    "Milka",
-   1.1
+   1.2
   ],
   [
    "Milka (bela, jagodna, tuc, oreo, le\u0161nik, itd.)",
-   1.3
+   1.4
   ],
   [
    "Milka velika",
-   3.1
+   3.2
   ],
   [
    "temna \u010dokolada",
@@ -230,23 +230,23 @@
   ],
   [
    "Wafelini",
-   0.4
+   0.5
   ],
   [
    "Kinder \u010dokoladice",
-   0.9
+   1.0
   ],
   [
    "Kinder bueno",
-   0.9
+   1.0
   ],
   [
    "Kinder pingui /     milch-schnithe",
-   0.7
+   0.8
   ],
   [
    "Kinder maxi king",
-   0.8
+   0.9
   ],
   [
    "Mars",
@@ -254,7 +254,7 @@
   ],
   [
    "Leo",
-   0.5
+   0.6
   ],
   [
    "7 days roglji\u010dek",
@@ -262,7 +262,7 @@
   ],
   [
    "7 days mini 60g",
-   0.7
+   0.8
   ],
   [
    "7 days mini 185g",
@@ -278,19 +278,19 @@
   ],
   [
    "Oreo 66g",
-   0.7
+   0.8
   ],
   [
    "Jaffa",
-   1.1
+   1.2
   ],
   [
    "Gran Cereale",
-   1.6
+   1.7
   ],
   [
    "Nutella 400g",
-   3.3
+   3.5
   ],
   [
    "Snikers",
@@ -298,11 +298,11 @@
   ],
   [
    "Toffiffe",
-   2.2
+   2.3
   ],
   [
    "Twix",
-   0.7
+   0.8
   ],
   [
    "Puding",
@@ -312,15 +312,15 @@
  "SLANI IZDELKI": [
   [
    "Bake Rolls",
-   0.7
+   0.8
   ],
   [
    "Pombar",
-   1.4
+   1.5
   ],
   [
    "Pombar ke\u010dap",
-   1.5
+   1.6
   ],
   [
    "kokice",
@@ -336,7 +336,7 @@
   ],
   [
    "\u010dips paprika, navaden, sir, \u010debula",
-   2.2
+   2.3
   ],
   [
    "\u0160tapi\u010di",
@@ -344,11 +344,11 @@
   ],
   [
    "ara\u0161idi",
-   0.9
+   1.0
   ],
   [
    "Pringles",
-   2.7
+   2.8
   ],
   [
    "\u0161tudentska hrana",
@@ -362,7 +362,7 @@
   ],
   [
    "toast",
-   1.2
+   1.4
   ],
   [
    "toast sir",
@@ -370,7 +370,7 @@
   ],
   [
    "zamrznjena pica",
-   1.5
+   2.0
   ],
   [
    "med",
